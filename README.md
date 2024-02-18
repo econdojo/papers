@@ -1,5 +1,3 @@
-A growing collection of academic papers.
-
 ## Macroeconomics
 
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](/pdf/BinUtil.pdf)], manuscript, 2022
