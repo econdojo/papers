@@ -17,5 +17,5 @@
 
 ## Evolutionary Dynamics
 
-* (With Jieran Wu) Analytic Policy Function Iteration [[PDF](/pdf/APFI_RX.pdf)], *Journal of Economic Theory*, 2022
+* (With Hang Ye, Shu Chen, Jun Luo, Yongmin Jia, and Yefeng Chen) Increasing Returns to Scale: The Solution to the Second-Order Social Dilemma [[PDF](https://doi.org/10.1038/srep31927)], *Scientific Reports*, 2016
 * (With Jieran Wu) Analytic Policy Function Iteration [[PDF](/pdf/APFI_RX.pdf)], *Journal of Economic Theory*, 2022
