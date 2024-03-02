@@ -12,8 +12,8 @@
 
 ## Bayesian Statistics
 
-* (With Jieran Wu) Analytic Policy Function Iteration [[PDF](/pdf/APFI_RX.pdf)], *Journal of Economic Theory*, 2022
-* (With Jieran Wu) Analytic Policy Function Iteration [[PDF](/pdf/APFI_RX.pdf)], *Journal of Economic Theory*, 2022
+* (With Siddhartha Chib and Minchul Shin) DSGE-SVt: An Econometric Toolkit for High-Dimensional DSGE Models with SV and t Errors [[PDF](/pdf/DSGE-SVt.pdf)], *Computational Economics*, 2021
+* (With David E. Rapach) Bayesian Estimation of Macro-Finance DSGE Models with Stochastic Volatility [[PDF](/pdf/MacroFinance.pdf)], revision requested at *Journal of Applied Econometrics*, 2020
 
 ## Evolutionary Dynamics
 
