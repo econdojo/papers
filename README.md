@@ -8,6 +8,7 @@
 * (With Bing Li and Pei Pei) Financial Distress and Fiscal Inflation [[PDF](/pdf/CreditRiskMF_v3.pdf)], *Journal of Macroeconomics*, 2021
 * An Analytical Approach to New Keynesian Models under the Fiscal Theory [[PDF](/pdf/SolvingNKFT.pdf)], *Economics Letters*, 2017
 * Interpreting Rational Expectations Econometrics via Analytic Function Approach [[PDF](/pdf/REEconometrics.pdf)], *Economics Bulletin*, 2017
+* (With Todd B. Walker) Solving Generalized Multivariate Linear Rational Expectations Models [[PDF](/pdf/TW_SMLRE_6_15.pdf)], *Journal of Economic Dynamics and Control*, 2015
 
 ## Bayesian Statistics
 
