@@ -16,8 +16,8 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 
 ## Bayesian Statistics
 
-* (With Siddhartha Chib and Minchul Shin) DSGE-SVt: An Econometric Toolkit for High-Dimensional DSGE Models with SV and t Errors [[PDF](/pdf/DSGE-SVt.pdf)], *Computational Economics*, 2021
-* (With David E. Rapach) Bayesian Estimation of Macro-Finance DSGE Models with Stochastic Volatility [[PDF](/pdf/MacroFinance.pdf)], revision requested at *Journal of Applied Econometrics*, 2020
+* (With Siddhartha Chib and Minchul Shin) DSGE-SVt: An Econometric Toolkit for High-Dimensional DSGE Models with SV and t Errors [[PDF](/pdf/DSGE-SVt.pdf), [Code](https://github.com/econdojo/dsge-svt)], *Computational Economics*, 2021
+* (With David E. Rapach) Bayesian Estimation of Macro-Finance DSGE Models with Stochastic Volatility [[PDF](/pdf/MacroFinance.pdf), [Code](https://github.com/econdojo/dsge-sv-affine)], revision requested at *Journal of Applied Econometrics*, 2020
 
 ## Game Theory
 
