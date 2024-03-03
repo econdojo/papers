@@ -1,3 +1,7 @@
+# Research Papers
+
+My research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `game theory`. One line of my current research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train Bayesian neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
+
 ## Macroeconomics
 
 * Appetite for Treasuries, Debt Cycles, and Fiscal Inflation [[PDF](/pdf/BinUtil.pdf)], manuscript, 2022
@@ -15,7 +19,7 @@
 * (With Siddhartha Chib and Minchul Shin) DSGE-SVt: An Econometric Toolkit for High-Dimensional DSGE Models with SV and t Errors [[PDF](/pdf/DSGE-SVt.pdf)], *Computational Economics*, 2021
 * (With David E. Rapach) Bayesian Estimation of Macro-Finance DSGE Models with Stochastic Volatility [[PDF](/pdf/MacroFinance.pdf)], revision requested at *Journal of Applied Econometrics*, 2020
 
-## Evolutionary Dynamics
+## Game Theory
 
 * (With Hang Ye, Shu Chen, Jun Luo, Yongmin Jia, and Yefeng Chen) Increasing Returns to Scale: The Solution to the Second-Order Social Dilemma [[PDF](/pdf/srep31927.pdf)], *Scientific Reports*, 2016
 * (With Hang Ye, Mei Ding, Yongmin Jia, and Yefeng Chen) Sympathy and Punishment: Evolution of Cooperation in Public Goods Game [[URL](http://jasss.soc.surrey.ac.uk/14/4/20.html)], *Journal of Artificial Societies and Social Simulation*, 2011
