@@ -11,11 +11,11 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 * [Financial Distress and Fiscal Inflation](/pdf/CreditRiskMF_v3.pdf), with Bing Li and Pei Pei, *Journal of Macroeconomics*, 2021
 * [An Analytical Approach to New Keynesian Models under the Fiscal Theory](/pdf/SolvingNKFT.pdf), *Economics Letters*, 2017
 * [Interpreting Rational Expectations Econometrics via Analytic Function Approach](/pdf/REEconometrics.pdf), *Economics Bulletin*, 2017
-* [Solving Generalized Multivariate Linear Rational Expectations Models](/pdf/TW_SMLRE_6_15.pdf)], with Todd B. Walker *Journal of Economic Dynamics and Control*, 2015
+* [Solving Generalized Multivariate Linear Rational Expectations Models](/pdf/TW_SMLRE_6_15.pdf), with Todd B. Walker *Journal of Economic Dynamics and Control*, 2015
 
 ## Bayesian Statistics
 
-* (With Siddhartha Chib and Minchul Shin) DSGE-SVt: An Econometric Toolkit for High-Dimensional DSGE Models with SV and t Errors [[PDF](/pdf/DSGE-SVt.pdf), [Code](https://github.com/econdojo/dsge-svt)], *Computational Economics*, 2021
+* [DSGE-SVt: An Econometric Toolkit for High-Dimensional DSGE Models with SV and t Errors](/pdf/DSGE-SVt.pdf), [Code](https://github.com/econdojo/dsge-svt)], with Siddhartha Chib and Minchul Shin, *Computational Economics*, 2021
 * (With David E. Rapach) Bayesian Estimation of Macro-Finance DSGE Models with Stochastic Volatility [[PDF](/pdf/MacroFinance.pdf), [Code](https://github.com/econdojo/dsge-sv-affine)], revision requested at *Journal of Applied Econometrics*, 2020
 
 ## Game Theory
