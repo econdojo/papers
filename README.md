@@ -10,8 +10,8 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 * [Origins of Monetary Policy Shifts: A New Approach to Regime Switching in DSGE Models](/pdf/EndoSwitchDSGE.pdf), with Yoosoon Chang and Junior Maih, *Journal of Economic Dynamics and Control*, 2021
 * [Financial Distress and Fiscal Inflation](/pdf/CreditRiskMF_v3.pdf), with Bing Li and Pei Pei, *Journal of Macroeconomics*, 2021
 * [An Analytical Approach to New Keynesian Models under the Fiscal Theory](/pdf/SolvingNKFT.pdf), *Economics Letters*, 2017
-* Interpreting Rational Expectations Econometrics via Analytic Function Approach [[PDF](/pdf/REEconometrics.pdf)], *Economics Bulletin*, 2017
-* (With Todd B. Walker) Solving Generalized Multivariate Linear Rational Expectations Models [[PDF](/pdf/TW_SMLRE_6_15.pdf)], *Journal of Economic Dynamics and Control*, 2015
+* [Interpreting Rational Expectations Econometrics via Analytic Function Approach](/pdf/REEconometrics.pdf), *Economics Bulletin*, 2017
+* [Solving Generalized Multivariate Linear Rational Expectations Models](/pdf/TW_SMLRE_6_15.pdf)], with Todd B. Walker *Journal of Economic Dynamics and Control*, 2015
 
 ## Bayesian Statistics
 
