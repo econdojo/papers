@@ -15,10 +15,10 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 
 ## Bayesian Statistics
 
-* [DSGE-SVt: An Econometric Toolkit for High-Dimensional DSGE Models with SV and t Errors](/pdf/DSGE-SVt.pdf), [Code](https://github.com/econdojo/dsge-svt)], with Siddhartha Chib and Minchul Shin, *Computational Economics*, 2021
-* (With David E. Rapach) Bayesian Estimation of Macro-Finance DSGE Models with Stochastic Volatility [[PDF](/pdf/MacroFinance.pdf), [Code](https://github.com/econdojo/dsge-sv-affine)], revision requested at *Journal of Applied Econometrics*, 2020
+* [DSGE-SVt: An Econometric Toolkit for High-Dimensional DSGE Models with SV and t Errors](/pdf/DSGE-SVt.pdf) [[Code](https://github.com/econdojo/dsge-svt)], with Siddhartha Chib and Minchul Shin, *Computational Economics*, 2021
+* [Bayesian Estimation of Macro-Finance DSGE Models with Stochastic Volatility](/pdf/MacroFinance.pdf) [[Code](https://github.com/econdojo/dsge-sv-affine)], with David E. Rapach, revision requested at *Journal of Applied Econometrics*, 2020
 
 ## Game Theory
 
-* (With Hang Ye, Shu Chen, Jun Luo, Yongmin Jia, and Yefeng Chen) Increasing Returns to Scale: The Solution to the Second-Order Social Dilemma [[PDF](/pdf/srep31927.pdf)], *Scientific Reports*, 2016
-* (With Hang Ye, Mei Ding, Yongmin Jia, and Yefeng Chen) Sympathy and Punishment: Evolution of Cooperation in Public Goods Game [[URL](http://jasss.soc.surrey.ac.uk/14/4/20.html)], *Journal of Artificial Societies and Social Simulation*, 2011
+* [Increasing Returns to Scale: The Solution to the Second-Order Social Dilemma](/pdf/srep31927.pdf), with Hang Ye, Shu Chen, Jun Luo, Yongmin Jia, and Yefeng Chen, *Scientific Reports*, 2016
+* [Sympathy and Punishment: Evolution of Cooperation in Public Goods Game](http://jasss.soc.surrey.ac.uk/14/4/20.html), with Hang Ye, Mei Ding, Yongmin Jia, and Yefeng Chen, *Journal of Artificial Societies and Social Simulation*, 2011
