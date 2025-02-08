@@ -20,6 +20,6 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 
 ## Game Theory
 
-* [Forecasting the Forecasts of Others on Social Networks](/pdf/ffo_net.pdf), manuscript, 2025
+* [Forecasting the Forecasts of Others on Social Networks](/pdf/ffo_net.pdf), with Leifei Lyu, manuscript, 2025
 * [Increasing Returns to Scale: The Solution to the Second-Order Social Dilemma](/pdf/srep31927.pdf), with Hang Ye, Shu Chen, Jun Luo, Yongmin Jia, and Yefeng Chen, *Scientific Reports*, 2016
 * [Sympathy and Punishment: Evolution of Cooperation in Public Goods Game](http://jasss.soc.surrey.ac.uk/14/4/20.html), with Hang Ye, Mei Ding, Yongmin Jia, and Yefeng Chen, *Journal of Artificial Societies and Social Simulation*, 2011
