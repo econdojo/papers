@@ -4,7 +4,6 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 
 ## Macroeconomics
 
-* [Forecasting the Forecasts of Others on Social Networks](/pdf/ffo_net.pdf), manuscript, 2025
 * [Appetite for Treasuries, Debt Cycles, and Fiscal Inflation](/pdf/BinUtil.pdf), manuscript, 2022
 * [Analytic Policy Function Iteration](/pdf/APFI_RX.pdf) [[Code](https://github.com/econdojo/ztran)], with Jieran Wu, *Journal of Economic Theory*, 2022
 * [A Frequency-Domain Approach to Dynamic Macroeconomic Models](/pdf/TestingNKFT.pdf), *Macroeconomic Dynamics*, 2021
@@ -21,5 +20,6 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 
 ## Game Theory
 
+* [Forecasting the Forecasts of Others on Social Networks](/pdf/ffo_net.pdf), manuscript, 2025
 * [Increasing Returns to Scale: The Solution to the Second-Order Social Dilemma](/pdf/srep31927.pdf), with Hang Ye, Shu Chen, Jun Luo, Yongmin Jia, and Yefeng Chen, *Scientific Reports*, 2016
 * [Sympathy and Punishment: Evolution of Cooperation in Public Goods Game](http://jasss.soc.surrey.ac.uk/14/4/20.html), with Hang Ye, Mei Ding, Yongmin Jia, and Yefeng Chen, *Journal of Artificial Societies and Social Simulation*, 2011
