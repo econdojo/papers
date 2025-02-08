@@ -4,6 +4,7 @@ My research agenda is organized around three areas: `macroeconomics`, `Bayesian 
 
 ## Macroeconomics
 
+* [Forecasting the Forecasts of Others on Social Networks](/pdf/ffo_net.pdf), manuscript, 2025
 * [Appetite for Treasuries, Debt Cycles, and Fiscal Inflation](/pdf/BinUtil.pdf), manuscript, 2022
 * [Analytic Policy Function Iteration](/pdf/APFI_RX.pdf) [[Code](https://github.com/econdojo/ztran)], with Jieran Wu, *Journal of Economic Theory*, 2022
 * [A Frequency-Domain Approach to Dynamic Macroeconomic Models](/pdf/TestingNKFT.pdf), *Macroeconomic Dynamics*, 2021
