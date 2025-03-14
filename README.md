@@ -1,9 +1,10 @@
 # Research Papers
 
-My research agenda is organized around three areas: `macroeconomics`, `Bayesian statistics`, and `game theory`. One line of my current research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train Bayesian neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
+Grounded in first principles, my research agenda is organized around three areas: `macroeconomics`, `econometrics`, and `game theory`. One line of my research develops time and frequency-domain approaches to dynamic equilibrium models of expectations formation. Another line develops Markov chain Monte Carlo methods for estimating large-scale structural models. These tools are applied to study monetary and fiscal policy, asset prices, and social networks. Recently, I like to train neural nets regularized by economic theory. My previous research studies the evolution of cooperative and altruistic human behavior.
 
 ## Macroeconomics
 
+* [Policy Rule Regressions with Survey Data](/pdf/PolicyRegress.pdf), with Leifei Lyu and Zheliang Zhu, manuscript, 2025
 * [Appetite for Treasuries, Debt Cycles, and Fiscal Inflation](/pdf/BinUtil.pdf), revision requested at *Macroeconomic Dynamics*, 2024
 * [Analytic Policy Function Iteration](/pdf/APFI_RX.pdf) [[Code](https://github.com/econdojo/ztran)], with Jieran Wu, *Journal of Economic Theory*, 2022
 * [A Frequency-Domain Approach to Dynamic Macroeconomic Models](/pdf/TestingNKFT.pdf), *Macroeconomic Dynamics*, 2021
