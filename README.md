@@ -36,6 +36,7 @@ Grounded in first principles, my research develops algorithmic solutions for com
 ## Notes & Comments
 
 * [Getting Started with AI Agents](/pdf/agent.pdf) [[excalidraw](/pdf/agent.excalidraw)]
+* [What is Economics?](/pdf/Econslides0.pdf)
 * [Prior Distribution](/pdf/prior.pdf)
 * [Measurement Equation](/pdf/measurement.pdf)
 * [Understanding Identification](/pdf/identification.pdf)
