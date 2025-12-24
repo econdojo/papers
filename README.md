@@ -4,7 +4,7 @@ Grounded in first principles, my research develops algorithmic solutions for com
 
 ## Machine Learning
 
-* Learning the Macroeconomic Language, with Siddhartha Chib, manuscript, 2025
+* [Learning the Macroeconomic Language](/pdf/dsgeGPT.pdf), with Siddhartha Chib, manuscript, 2025
 
 ## Game Theory
 
