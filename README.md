@@ -16,8 +16,8 @@ Grounded in first principles, my research develops algorithmic solutions for com
 
 ## Macroeconomics
 
-* [Policy Rule Regressions with Survey Data](/pdf/PolicyRegress.pdf), with Leifei Lyu and Zheliang Zhu, manuscript, 2025
-* [Appetite for Treasuries, Debt Cycles, and Fiscal Inflation](/pdf/BinUtil.pdf), revision requested at *Macroeconomic Dynamics*, 2024
+* [Appetite for Treasuries, Debt Cycles, and Fiscal Inflation](/pdf/BinUtil.pdf), revised and resubmitted at *Macroeconomic Dynamics*, 2026
+* [Policy Rule Regressions with Survey Data](/pdf/PolicyRegress.pdf), with Leifei Lyu and Zheliang Zhu, revised and resubmitted at *Journal of Economic Dynamics and Control*, 2025
 * [Origins of Monetary Policy Shifts: A New Approach to Regime Switching in DSGE Models](/pdf/EndoSwitchDSGE.pdf), with Yoosoon Chang and Junior Maih, *Journal of Economic Dynamics and Control*, 2021
 * [A Frequency-Domain Approach to Dynamic Macroeconomic Models](/pdf/TestingNKFT.pdf), *Macroeconomic Dynamics*, 2021
 * [Financial Distress and Fiscal Inflation](/pdf/CreditRiskMF_v3.pdf), with Bing Li and Pei Pei, *Journal of Macroeconomics*, 2021
