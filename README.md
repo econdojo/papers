@@ -4,7 +4,7 @@ Grounded in first principles, my research develops algorithmic solutions for com
 
 ## Machine Learning
 
-* [Learning the Macroeconomic Language](/pdf/dsgeGPT.pdf), with Siddhartha Chib, manuscript, 2025
+* [Learning the Macroeconomic Language](/pdf/dsgeGPT.pdf), with Siddhartha Chib and Zhixun Zhang, manuscript, 2026
 
 ## Game Theory
 
@@ -16,7 +16,7 @@ Grounded in first principles, my research develops algorithmic solutions for com
 
 ## Macroeconomics
 
-* [Appetite for Treasuries, Debt Cycles, and Fiscal Inflation](/pdf/BinUtil.pdf), forthcoming at *Macroeconomic Dynamics*, 2026
+* [Appetite for Treasuries, Debt Cycles, and Fiscal Inflation](/pdf/BinUtil.pdf), *Macroeconomic Dynamics*, 2026
 * [Policy Rule Regressions with Survey Data](/pdf/PolicyRegress.pdf), with Leifei Lyu and Zheliang Zhu, revised and resubmitted at *Journal of Economic Dynamics and Control*, 2025
 * [Origins of Monetary Policy Shifts: A New Approach to Regime Switching in DSGE Models](/pdf/EndoSwitchDSGE.pdf), with Yoosoon Chang and Junior Maih, *Journal of Economic Dynamics and Control*, 2021
 * [A Frequency-Domain Approach to Dynamic Macroeconomic Models](/pdf/TestingNKFT.pdf), *Macroeconomic Dynamics*, 2021
