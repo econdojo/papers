@@ -12,7 +12,7 @@ Grounded in first principles, my research develops algorithmic solutions for com
 * [Analytic Policy Function Iteration](/pdf/APFI_RX.pdf) [[Code](https://github.com/econdojo/ztran)], with Jieran Wu, *Journal of Economic Theory*, 2022
 * [Solving Generalized Multivariate Linear Rational Expectations Models](/pdf/TW_SMLRE_6_15.pdf), with Todd B. Walker *Journal of Economic Dynamics and Control*, 2015
 * [Increasing Returns to Scale: The Solution to the Second-Order Social Dilemma](/pdf/srep31927.pdf), with Hang Ye, Shu Chen, Jun Luo, Yongmin Jia, and Yefeng Chen, *Scientific Reports*, 2016
-* [Sympathy and Punishment: Evolution of Cooperation in Public Goods Game](http://jasss.soc.surrey.ac.uk/14/4/20.html), with Hang Ye, Mei Ding, Yongmin Jia, and Yefeng Chen, *Journal of Artificial Societies and Social Simulation*, 2011
+* [Sympathy and Punishment: Evolution of Cooperation in Public Goods Game](https://www.jasss.org/14/4/20.html), with Hang Ye, Mei Ding, Yongmin Jia, and Yefeng Chen, *Journal of Artificial Societies and Social Simulation*, 2011
 
 ## Macroeconomics
 
