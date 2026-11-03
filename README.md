@@ -31,7 +31,7 @@ Grounded in first principles, my research develops algorithmic solutions for com
 
 ## Space Economy
 
-* The Space-AI Convergence: Why Every Company Needs an Orbital Strategy, with Xiao Zhang, manuscript, 2025
+* [The Space-AI Convergence: Why Every Company Needs an Orbital Strategy](/pdf/SpaceAI.pdf), with Xiao Zhang, manuscript, 2025
 
 ## Notes & Comments
 
